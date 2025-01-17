@@ -38,7 +38,9 @@ Feel free to fork this project and contribute by adding more features. Contribut
 ## SUPPORT
 
 If you'd like to support my work and help me create more bots:
+
 **star** this repository or consider buying me a coffee:
 
 EVM : `0x73E5cB9897DBD3e04Bd1Dd7280d3921Ae9d29131`
+
 SOLANA : `VVHutR8CEKDd6jiHPbtFwDFG753ve9y1sbPy59inhiw`  
