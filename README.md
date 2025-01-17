@@ -29,7 +29,7 @@ How to get cookie ?
 
 ## AUTO REFF
 
-*Update the source code auto-reff.py and locate the reff_code on line 82.*
+**Update the source code auto-reff.py and locate the *reff_code* on line 82.**
 
 ## CONTRIBUTE
 
